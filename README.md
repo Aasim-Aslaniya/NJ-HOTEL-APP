@@ -93,7 +93,7 @@ The final output is a ready-to-implement UI reference for developing the applica
 ---
 
 ## Prototype Link
-- **Figma Prototype:** *https://www.figma.com/proto/3It3GlT8XcDeQVBBOuNLMQ/NJ-RESIDENCY?node-id=120-409&p=f&t=W1KZIHpYwzKrrLwA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=114%3A180*
+- **Figma Prototype:** *https://www.figma.com/proto/3It3GlT8XcDeQVBBOuNLMQ/NJ-RESIDENCY?node-id=114-180&p=f&t=VPz4xpRY2RR9nDd8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=114%3A180*
 
 ---
 
