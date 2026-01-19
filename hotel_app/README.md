@@ -1,23 +1,41 @@
-# NJ Residency – Hotel Management Admin App (Figma Prototype)
+# NJ Residency – Hotel Management Admin App (Figma + Flutter)
 
 ## Overview
-NJ Residency is a Hotel Management Admin Mobile App UI Prototype designed in Figma.
-It helps hotel administrators manage daily operations such as room status, staff attendance, reservations, and guest details in one platform.
-The prototype focuses on a clean layout with easy navigation, making the experience smooth for admins.
-This design serves as a strong base for future Flutter development and backend integration.
+NJ Residency is a **Hotel Management Admin Mobile App** that helps hotel administrators manage daily operations such as **room status, staff attendance, reservations, and guest details** in one platform.
+
+This project includes:
+- A complete **Figma UI Prototype**
+- Flutter development started and **Login + Dashboard screens are implemented**
+
+The prototype and Flutter UI are designed with a clean layout, easy navigation, and modern admin-friendly UI.
 
 ---
 
 ## Project Objective
+The objective of this project is to build a **modern and user-friendly Hotel Admin mobile application**.
 
-The objective of this project is to design a modern and user-friendly admin hotel management mobile UI.
-The prototype connects all screens using Figma interactions, showing real app navigation flow.
-It aims to reduce manual work for admins by organizing tasks like bookings, attendance, and room monitoring efficiently.
-The final output is a ready-to-implement UI reference for developing the application in Flutter.
+- The **Figma prototype** shows the complete UI and navigation flow.
+- The **Flutter app** is being developed based on the prototype.
+- The system aims to reduce manual work for admins by organizing operations efficiently.
 
 ---
 
-## Key Features
+## Current Progress (Flutter Development)
+Completed Flutter Screens:
+- **Admin Login Screen** (UI completed)
+- **Admin Dashboard Screen** (UI completed)
+
+Upcoming Modules:
+- Room Management Screen
+- Room Details Screen
+- Employee Attendance & Staff List
+- Reservations Screen
+- Guest Details Screen
+- Notification Module
+
+---
+
+## Key Features (Planned)
 - Admin Login
 - Admin Dashboard (Summary + Analytics)
 - Room Management (Available / Occupied / Cleaning)
@@ -30,7 +48,7 @@ The final output is a ready-to-implement UI reference for developing the applica
 
 ---
 
-## Screens Included
+## Screens Included (Figma Prototype)
 1. **Admin Login Screen**
    - Email & Password login
    - Sign In button
@@ -89,19 +107,18 @@ The final output is a ready-to-implement UI reference for developing the applica
 
 ## Tools Used
 - **Figma** – UI Design & Prototyping
+- **Flutter (Dart)** – Mobile App Development
 
 ---
 
 ## Prototype Link
-- **Figma Prototype:** *https://www.figma.com/proto/3It3GlT8XcDeQVBBOuNLMQ/NJ-RESIDENCY?node-id=114-180&p=f&t=VPz4xpRY2RR9nDd8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=114%3A180*
+- **Figma Prototype:**  
+https://www.figma.com/proto/3It3GlT8XcDeQVBBOuNLMQ/NJ-RESIDENCY?node-id=114-180&p=f&t=VPz4xpRY2RR9nDd8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=114%3A180
 
 ---
 
 ## Future Enhancements
-- Flutter UI implementation
-- Backend integration (Firebase / Supabase)
+- Complete Flutter UI implementation for all remaining modules
+- Backend integration (Firebase)
 - Push notifications for alerts and updates
 - Reports module (PDF / Excel export)
-
----
-
